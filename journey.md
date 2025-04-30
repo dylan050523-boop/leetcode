@@ -9,6 +9,7 @@ diary
 - asked solution to ai
 
 30-04-2025
+
 <12:46pm>
- - will try to solve easy difficulity problems first
+ - will try to solve easy difficulty problems first
 

@@ -13,3 +13,5 @@ diary
 <12:46pm>
  - will try to solve easy difficulty problems first
 
+02-05-2025
+- i understand it now

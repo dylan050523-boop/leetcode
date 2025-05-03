@@ -15,3 +15,6 @@ diary
 
 02-05-2025
 - i understand it now
+
+03-05-2025
+- nvm

@@ -18,3 +18,6 @@ diary
 
 03-05-2025
 - nvm
+
+05-05-2025
+- just sticking in with js, not java. too hard

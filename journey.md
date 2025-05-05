@@ -20,4 +20,4 @@ diary
 - nvm
 
 05-05-2025
-- just sticking in with js, not java. too hard
+- just sticking in with js, not java. too hard, would focus on code logic itself rather than keep checking grammar and syntax 

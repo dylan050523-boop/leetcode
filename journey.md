@@ -20,4 +20,8 @@ diary
 - nvm
 
 05-05-2025
-- just sticking in with js, not java. too hard, would focus on code logic itself rather than keep checking grammar and syntax 
+- just sticking in with js, not java. too hard, would focus on code logic itself rather than keep checking grammar and syntax
+
+06-05-2025
+- for study, portfolio: java
+- for income, making money: javascript

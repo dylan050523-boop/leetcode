@@ -24,4 +24,7 @@ diary
 
 06-05-2025
 - for study, portfolio: java
-- for income, making money: javascript
+- ~~for income, making money: javascript~~
+
+09-05-2025
+- just one thing
